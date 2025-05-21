@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Kranthi Kumar Dunna
 
-## 🚀 Data Scientist | 💻 Full Stack Developer | ☁️ Cloud Enthusiast
+## 🚀 Machine Learning Engineer | 💻 Full Stack Developer | ☁️ Cloud Enthusiast
 
 🎓 Currently pursuing my Masters in Data Science at Indiana University, Bloomington (08/2023 - 05/2025)
 
