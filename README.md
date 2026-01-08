@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF7E7&center=true&vCenter=true&width=600&lines=Turning+complex+data+into+meaningful+systems;Designing+AI+and+Cloud+solutions+that+scale;Full+Stack+Engineer+%7C+Data+Scientist+%7C+AWS+Certified" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kranthi2088&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kranthi2088?label=Followers&style=social" alt="Followers" />
+</p>
+
 ---
 
 ## 🧭 About Me
@@ -17,6 +22,21 @@ I'm a results-driven **Software Engineer** with over **4 years of experience** i
 Currently pursuing my **Master’s in Data Science at Indiana University, Bloomington (2023–2025)**, I specialize in integrating **AI-driven analytics** with **cloud-native architectures** to build scalable, resilient systems.  
 
 > 💡 “I don’t just build systems — I architect experiences that scale, learn, and adapt.”
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const kranthi = {
+    currentRole: "Full Stack Java Developer @ Morgan Stanley",
+    education: "MS in Data Science @ Indiana University",
+    learning: ["Distributed Systems", "AI/ML at Scale", "Cloud Architecture"],
+    interests: ["Microservices", "Real-time Analytics", "Financial Technology"],
+    askMeAbout: ["Java", "Spring Boot", "Python", "AWS", "Machine Learning"],
+    funFact: "I transform coffee into cloud-native microservices ☕ → ☁️"
+};
+```
 
 ---
 
@@ -76,6 +96,13 @@ Currently pursuing my **Master’s in Data Science at Indiana University, Bloomi
 
 ---
 
+## 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🏅 Certifications & Achievements
 
 - 🥇 **Winner – ServiceNow Hackathon (2024)**  
@@ -87,12 +114,17 @@ Currently pursuing my **Master’s in Data Science at Indiana University, Bloomi
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kranthikdunna&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kranthikdunna&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kranthi2088&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthikdunna&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kranthi2088&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kranthi2088&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kranthi2088&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kranthi2088&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -100,9 +132,13 @@ Currently pursuing my **Master’s in Data Science at Indiana University, Bloomi
 ## 🌍 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:Kranthikdunna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kranthi-kumar-dunna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kranthikdunna"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="mailto:Kranthikdunna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kranthi-kumar-dunna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Kranthi2088"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  📍 Based in Seattle, WA | 🌐 Open to collaborations and opportunities
 </p>
 
 ---
