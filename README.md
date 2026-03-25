@@ -106,7 +106,7 @@ const kranthi = {
 ## 🏅 Certifications & Achievements
 
 - 🥇 **Winner – ServiceNow Hackathon (2024)**  
-- ☁️ **AWS Certified Solutions Architect – Associate**  
+- ☁️ **AWS Certified Developer – Associate**  
 - ☕ **Oracle Certified Professional: Java SE 11 Developer**
 
 ---
